@@ -65,3 +65,5 @@ Hệ thống gồm:
 5. Chạy:
     * Khách hàng: `http://localhost/Nhom1-QuanLyBanMayTinh/quanlymaytinh-main/BanMayTinh`
     * Admin: `http://localhost/Nhom1-QuanLyBanMayTinh/quanlymaytinh-main/quantri`
+## 🖼 Demo giao diện
+![Giao diện trang chủ](https://photos.app.goo.gl/BWJHp9pSUyD8oqBZ7)
