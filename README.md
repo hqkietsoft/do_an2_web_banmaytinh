@@ -66,4 +66,37 @@ Hệ thống gồm:
     * Khách hàng: `http://localhost/Nhom1-QuanLyBanMayTinh/quanlymaytinh-main/BanMayTinh`
     * Admin: `http://localhost/Nhom1-QuanLyBanMayTinh/quanlymaytinh-main/quantri`
 ## 🖼 Demo giao diện
-![Giao diện trang chủ](https://photos.app.goo.gl/BWJHp9pSUyD8oqBZ7)
+1. Giao diện trang chủ
+<p align="center">
+  <img src="images/trangchu.png" alt="">
+</p>
+
+2. Chi tiết sản phẩm
+<p align="center">
+  <img src="images/chitietsanpham.png" alt="">
+</p>
+
+3. Giỏ hàng
+<p align="center">
+  <img src="images/giohang.png" alt="">
+</p>
+
+4. Thanh toán
+<p align="center">
+  <img src="images/thanhtoan.png" alt="">
+</p>
+
+5. Hoá đơn thanh toán
+<p align="center">
+  <img src="images/hoadonthanhtoan.png" alt="">
+</p>
+
+6. Quản trị 1
+<p align="center">
+  <img src="images/quantri1.png" alt="">
+</p>
+
+7. Quản trị 2
+<p align="center">
+  <img src="images/quantri2.png" alt="">
+</p>
